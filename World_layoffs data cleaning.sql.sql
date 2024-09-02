@@ -4,6 +4,7 @@
 -- 2. standardize the data
 -- 3. Remove any columns
 
+-- Remove Duplicate
 USE world_layoffs;
 SELECT * 
 FROM layoffs_staging;
